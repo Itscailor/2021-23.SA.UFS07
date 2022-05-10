@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/Itscailor/2021-23.SA.UFS07/compare/v1.3.0...v1.4.0) (2022-05-10)
+
+
+### Features
+
+* add login and token to deploy ([bc86fde](https://github.com/Itscailor/2021-23.SA.UFS07/commit/bc86fde5615089afcc616d783f6b7075c80a7c88))
+* packages json ([5a7c236](https://github.com/Itscailor/2021-23.SA.UFS07/commit/5a7c2365106c0ac235d0767c614079a9ffe44a52))
+
+
+### Bug Fixes
+
+* changed dist domain in deploy ([fa2caac](https://github.com/Itscailor/2021-23.SA.UFS07/commit/fa2caac28a9347b575d59b2266661f82acc938bb))
+
 ## 1.3.0 (2022-05-10)
 
 
