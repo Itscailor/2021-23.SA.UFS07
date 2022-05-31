@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/Itscailor/2021-23.SA.UFS07/compare/v1.6.0...v1.6.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* change json ([e094de7](https://github.com/Itscailor/2021-23.SA.UFS07/commit/e094de792f5b0be5d5ae0695ec9b44b3f92cc49d))
+
 ## 1.6.0 (2022-05-31)
 
 
