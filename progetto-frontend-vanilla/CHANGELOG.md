@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.3](https://github.com/Itscailor/2021-23.SA.UFS07/compare/v1.6.2...v1.6.3) (2022-06-06)
+
+
+### Bug Fixes
+
+* change export ([cc4a535](https://github.com/Itscailor/2021-23.SA.UFS07/commit/cc4a53540cd5a6cc5a5ab38aa0322d35a36fabb0))
+* change export ([3a7243a](https://github.com/Itscailor/2021-23.SA.UFS07/commit/3a7243a967e8df56bfa411f4130e23ae89631214))
+* change marco to lorenzo ([8cb6165](https://github.com/Itscailor/2021-23.SA.UFS07/commit/8cb6165b107e4d166f20f2c33e8864600dc5c3d4))
+
 ### [1.6.2](https://github.com/Itscailor/2021-23.SA.UFS07/compare/v1.6.1...v1.6.2) (2022-06-06)
 
 
