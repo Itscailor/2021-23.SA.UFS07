@@ -38,7 +38,7 @@ jobs:
         run: |
           npm install
           export PACKAGE_VERSION=`cat package.json | jq -r '.version'`
-          export DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["test-1-cltest1997-react"]' | cut -c2-`
+          export DESIGN_SYSTEM_VERSION=`cat package.json | jq -r '.dependencies["test-1-cltest1997"]' | cut -c2-`
           npm run build
       - name: Chromatic design-system-react
         working-directory: design-system/react
