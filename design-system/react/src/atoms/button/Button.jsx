@@ -24,8 +24,10 @@ Button.propTypes = {
    * Optional click handler
    */
   onClick: PropTypes.func,
+  type: ProtTypes.string,
 };
 
 Button.defaultProps = {
   onClick: undefined,
+  type:'button',
 };
