@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.3](https://github.com/Itscailor/2021-23.SA.UFS07/compare/v1.6.3...v1.8.3) (2022-06-10)
+
+
+### Bug Fixes
+
+* change buttons ([d5d035a](https://github.com/Itscailor/2021-23.SA.UFS07/commit/d5d035afcadad79d2163ccb03a96b8e2c70688e5))
+* change buttons ([8d7cd46](https://github.com/Itscailor/2021-23.SA.UFS07/commit/8d7cd46f15cd7f11621306f9ccde074aced33b92))
+* change buttons ([4a1e53d](https://github.com/Itscailor/2021-23.SA.UFS07/commit/4a1e53d7df063eee9913d0590664b2025eeafb7d))
+* change proptype ([d0f83eb](https://github.com/Itscailor/2021-23.SA.UFS07/commit/d0f83eb328ec4839ac5b65595024be820357425a))
+* update npm version ([0f4ad19](https://github.com/Itscailor/2021-23.SA.UFS07/commit/0f4ad1902024ea27ac96f17d3cc733bf66c84e20))
+* update nvmrc ([9ee8128](https://github.com/Itscailor/2021-23.SA.UFS07/commit/9ee8128a237ce609829b5ad76f3ed39903d1457e))
+
 ### [1.6.3](https://github.com/Itscailor/2021-23.SA.UFS07/compare/v1.6.2...v1.6.3) (2022-06-06)
 
 
