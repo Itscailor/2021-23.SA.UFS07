@@ -32,4 +32,4 @@ export const Btn = Template.bind({});
 Btn.args = {
   label: 'Button',
   type: 'button',
-};
+};  
