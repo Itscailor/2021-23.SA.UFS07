@@ -9,5 +9,5 @@ export default {
 const Template = (args) => <Paragrafo> {...(args) }</Paragrafo>;
 export const PlainParagrafo = Template.bind ({});
 PlainParagrafo.args = {
-
+children: "ciaooo"
 };

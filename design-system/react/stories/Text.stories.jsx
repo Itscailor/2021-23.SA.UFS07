@@ -12,5 +12,5 @@ export default{
 const Template = (args) => <Text {...args} />;
 export const PlainText = Template.bind({});
 PlainText.args = {
-label: 'Conti culo culo conti',
+label: 'very bad conti',
 };
