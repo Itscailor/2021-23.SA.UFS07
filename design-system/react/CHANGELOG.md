@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/Itscailor/2021-23.SA.UFS07/compare/ds1.3.1...ds1.3.2) (2022-06-14)
+
+
+### Bug Fixes
+
+* fix storybook ([fa8f550](https://github.com/Itscailor/2021-23.SA.UFS07/commit/fa8f5505a9d858c325617f109105456d4daa351a))
+
 ### [1.3.1](https://github.com/Itscailor/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-06-14)
 
 
