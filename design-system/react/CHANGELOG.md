@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/Itscailor/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* add export ([50a0a34](https://github.com/Itscailor/2021-23.SA.UFS07/commit/50a0a340eb068a972675c86abaf69e2a45cf8667))
+* add input ([5f6ba39](https://github.com/Itscailor/2021-23.SA.UFS07/commit/5f6ba3921d6a163f4e1750e9409bfc9dc2e38639))
+* add input button ([f979f49](https://github.com/Itscailor/2021-23.SA.UFS07/commit/f979f49cbf7ca68526846793526a6055e5792a10))
+* change buttons ([d5d035a](https://github.com/Itscailor/2021-23.SA.UFS07/commit/d5d035afcadad79d2163ccb03a96b8e2c70688e5))
+* change buttons ([8d7cd46](https://github.com/Itscailor/2021-23.SA.UFS07/commit/8d7cd46f15cd7f11621306f9ccde074aced33b92))
+* change buttons ([4a1e53d](https://github.com/Itscailor/2021-23.SA.UFS07/commit/4a1e53d7df063eee9913d0590664b2025eeafb7d))
+* change export ([cc4a535](https://github.com/Itscailor/2021-23.SA.UFS07/commit/cc4a53540cd5a6cc5a5ab38aa0322d35a36fabb0))
+* change export ([3a7243a](https://github.com/Itscailor/2021-23.SA.UFS07/commit/3a7243a967e8df56bfa411f4130e23ae89631214))
+* change marco to lorenzo ([8cb6165](https://github.com/Itscailor/2021-23.SA.UFS07/commit/8cb6165b107e4d166f20f2c33e8864600dc5c3d4))
+* change proptype ([d0f83eb](https://github.com/Itscailor/2021-23.SA.UFS07/commit/d0f83eb328ec4839ac5b65595024be820357425a))
+* trying fi storybook ([b2af3a9](https://github.com/Itscailor/2021-23.SA.UFS07/commit/b2af3a91a566de8efc467afb3445a6fbf9dd8cfc))
+* update npm ([b245ac1](https://github.com/Itscailor/2021-23.SA.UFS07/commit/b245ac11a9838e4a5e6eaf941c08b6634b837ee3))
+* update npm version ([0f4ad19](https://github.com/Itscailor/2021-23.SA.UFS07/commit/0f4ad1902024ea27ac96f17d3cc733bf66c84e20))
+* update nvmrc ([9ee8128](https://github.com/Itscailor/2021-23.SA.UFS07/commit/9ee8128a237ce609829b5ad76f3ed39903d1457e))
+
 ## 1.3.0 (2022-05-31)
 
 
